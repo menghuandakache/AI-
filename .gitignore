@@ -1,6 +1,9 @@
 # Claude
 .claude/
 
+# 参考资料（不公开）
+参考资料/
+
 # Python
 __pycache__/
 *.py[cod]
